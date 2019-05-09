@@ -22,6 +22,7 @@ Venstar thermostats feature a local API that allows for automation without the n
 Currently supported and tested thermostats:
 
 - Color Touch T7900
+- Color Touch T7850
 
 Currently supported functionality:
 - Setting heat/cool temperature when the thermostat is in the appropriate mode.
